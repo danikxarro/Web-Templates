@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!-- According to the HTML5 standard; the <html>, the <body>, and the <head> tag can be omitted. -->
+<html>
+<head>
+  <title>HTML5 Basic Template</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Setting The Viewport -->
+  <meta name="description" content="Free Template">
+  <meta name="keywords" content="HTML,CSS,">
+  <meta name="author" content="danikxarro">
+   <!-- <link rel="stylesheet" href="mystyle.css"> -->
+  <style>
+  </style>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
